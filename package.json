@@ -1,0 +1,26 @@
+{
+  "name": "solitary_unit_tests_vs_sociable_inte_tests",
+  "version": "1.0.0",
+  "description": "This repo is to reflect the reflections I have about solitary tests, mocks VS sociable / integration tests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Benoit-Vasseur/solitary_unit_tests_VS_sociable_inte_tests.git"
+  },
+  "keywords": [
+    "test",
+    "testing"
+  ],
+  "author": "Benoit Vasseur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Benoit-Vasseur/solitary_unit_tests_VS_sociable_inte_tests/issues"
+  },
+  "homepage": "https://github.com/Benoit-Vasseur/solitary_unit_tests_VS_sociable_inte_tests#readme",
+  "devDependencies": {
+    "jest": "^24.3.1"
+  }
+}
