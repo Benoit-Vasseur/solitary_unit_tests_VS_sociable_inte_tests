@@ -1,7 +1,7 @@
 import React from "react";
 import { render } from "react-dom";
-import { CounterView } from "./Counter/view";
+import { Counter, CounterClass } from "./Counter";
 
 const app = document.querySelector("#app");
 
-render(<CounterView clicks="10" />, app);
+render(<CounterClass />, app);
