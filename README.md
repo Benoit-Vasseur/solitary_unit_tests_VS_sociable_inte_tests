@@ -46,3 +46,4 @@ Some articles that influenced my vision about the testing techniques :
 - https://kentcdodds.com/blog/testing-implementation-details
 - https://kentcdodds.com/blog/why-i-never-use-shallow-rendering
 - https://kentcdodds.com/blog/unit-vs-integration-vs-e2e-tests
+- https://medium.com/javascript-scene/unit-testing-react-components-aeda9a44aae2
